@@ -73,7 +73,7 @@ export const Donation = () => {
 					  <p className="version-name m-0">April 19th 2023 to April 17th 2024</p>
 				      </div>
 				  </div>
-				  <a href="https://dl.somc.club/SoMC_Season_1.zip" className="text-decoration-none" target="_blank">
+				  <a href="https://dl.somc.club/worlds/SoMC_Season_1.zip" className="text-decoration-none" target="_blank">
 				      <div className="download-btn-container">
 					  <img src={DownloadBtn} width={15} height={15} alt="" />
 				      </div>
@@ -87,21 +87,7 @@ export const Donation = () => {
 					  <p className="version-name m-0">Jan 24th 2024</p>
 				      </div>
 				  </div>
-				  <a href="https://dl.somc.club/SoMC_Skyblock-2023_to_2024.zip" className="text-decoration-none" target="_blank">
-				      <div className="download-btn-container">
-					  <img src={DownloadBtn} width={15} height={15} alt="" />
-				      </div>
-				  </a>
-			      </div>
-			      <div className="w-100 version-card flex justify-between items-center w-100">
-				  <div className="flex gap-2 items-center">
-				      <img src={VersionCardIcon} alt="" height={24} width={24} />
-				      <div>
-					  <p className="version-number m-0">Penguins Vs Cats Dragon Speed Run</p>
-					  <p className="version-name m-0">Nov 8th 2023</p>
-				      </div>
-				  </div>
-				  <a href="https://dl.somc.club/PenguinsVsCats.zip" className="text-decoration-none" target="_blank">
+				  <a href="https://dl.somc.club/worlds/SoMC_Skyblock-2023_to_2024.zip" className="text-decoration-none" target="_blank">
 				      <div className="download-btn-container">
 					  <img src={DownloadBtn} width={15} height={15} alt="" />
 				      </div>
@@ -115,7 +101,7 @@ export const Donation = () => {
 					  <p className="version-name m-0">The World.</p>
 				      </div>
 				  </div>
-				  <a href="https://dl.somc.club/PenguinCraft-World_3.zip" className="text-decoration-none" target="_blank">
+				  <a href="https://dl.somc.club/worlds/PenguinCraft-World_3.zip" className="text-decoration-none" target="_blank">
 				      <div className="download-btn-container">
 					  <img src={DownloadBtn} width={15} height={15} alt="" />
 				      </div>
@@ -129,7 +115,7 @@ export const Donation = () => {
 					  <p className="version-name m-0">The World.</p>
 				      </div>
 				  </div>
-				  <a href="https://dl.somc.club/PenguinCraft-World_2.zip" className="text-decoration-none" target="_blank">
+				  <a href="https://dl.somc.club/worlds/PenguinCraft-World_2.zip" className="text-decoration-none" target="_blank">
 				      <div className="download-btn-container">
 					  <img src={DownloadBtn} width={15} height={15} alt="" />
 				      </div>
@@ -143,7 +129,7 @@ export const Donation = () => {
 					  <p className="version-name m-0">The World.</p>
 				      </div>
 				  </div>
-				  <a href="https://dl.somc.club/PenguinCraft-World_1.zip" className="text-decoration-none" target="_blank">
+				  <a href="https://dl.somc.club/worlds/PenguinCraft-World_1.zip" className="text-decoration-none" target="_blank">
 				      <div className="download-btn-container">
 					  <img src={DownloadBtn} width={15} height={15} alt="" />
 				      </div>
