@@ -70,7 +70,7 @@ export const Donation = () => {
 				      <img src={VersionCardIcon} alt="" height={24} width={24} />
 				      <div>
 					  <p className="version-number m-0">SoMC Season 1</p>
-					  <p className="version-name m-0">April 19 2023 to April 17th 2024</p>
+					  <p className="version-name m-0">April 19th 2023 to April 17th 2024</p>
 				      </div>
 				  </div>
 				  <a href="https://dl.somc.club/SoMC_Season_1.zip" className="text-decoration-none" target="_blank">
