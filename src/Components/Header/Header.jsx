@@ -82,7 +82,8 @@ const Header = () => {
             }}
           >
             <img src={Bullseye} alt="Bullseye" />
-              <span>{stats?.playersActiveWeek} Active Players</span>
+              {/*<span>{stats?.playersActiveWeek} Active Players</span>*/}
+	      <span>10+ Active Players</span>
           </div>
             <a href="https://discord.gg/eHyrQfgDGM">
             <button className="join-now-btn text-white font-[Pixeloid Sans] text-[14px] font-bold">
