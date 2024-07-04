@@ -43,7 +43,7 @@ const Header = () => {
           </a>
           <a
               href={"https://discord.gg/eHyrQfgDGM"}
-            className="text-decoration-none nav-item"
+            className="text-decoration-none nav-item plausible-event-name=Join+Now+Menu"
           >
             Discord
           </a>
@@ -86,7 +86,7 @@ const Header = () => {
 	      <span>10+ Active Players</span>
           </div>
             <a href="https://discord.gg/eHyrQfgDGM">
-            <button className="join-now-btn text-white font-[Pixeloid Sans] text-[14px] font-bold">
+            <button className="join-now-btn text-white font-[Pixeloid Sans] text-[14px] font-bold plausible-event-name=Join+Now+Header">
               JOIN NOW!
             </button>
           </a>

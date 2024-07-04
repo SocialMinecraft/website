@@ -60,7 +60,7 @@ const HeroSection = () => {
               borderRadius: "5px",
               background: "linear-gradient(166deg, #B7F476 0%, #60AC34 100%)",
             }}
-            className="join-now-btn-hero"
+            className="join-now-btn-hero plausible-event-name=Join+Discord+Hero"
           >
             JOIN SERVER
           </button>
@@ -80,7 +80,7 @@ const HeroSection = () => {
               className="arrow-img"
             />
             {/* <div className="arrow-img"></div> */}
-            <a href="https://discord.gg/eHyrQfgDGM" className="text-decoration-none">
+            <a href="https://discord.gg/eHyrQfgDGM" className="text-decoration-none plausible-event-name=Join+Discord+Hero">
               <p className="mt-[1.5rem]">
                 Join us only <br /> through discord!
               </p>

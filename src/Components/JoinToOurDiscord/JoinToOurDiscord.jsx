@@ -14,7 +14,7 @@ const JoinToOurDiscord = () => {
           <a
             href="https://discord.gg/eHyrQfgDGM"
             target="_blank"
-            className="text-decoration-none"
+            className="text-decoration-none plausible-event-name=Join+Discord+Weekly"
           >
             <img
               src={JoinToDiscordArrow}
@@ -44,7 +44,7 @@ const JoinToOurDiscord = () => {
           <a
             href="https://discord.gg/eHyrQfgDGM"
             target="_blank"
-            className="text-decoration-none"
+            className="text-decoration-none plausible-event-name=Join+Discord+Weekly"
           >
             <div className="join-to-discord flex justify-center items-center gap-2 sm:w-[166px] sm:h-[44px] md:w-[248px] md:h-[66px]">
               <img src={JoinToDiscordArrow} alt="" width={13} height={13} />
